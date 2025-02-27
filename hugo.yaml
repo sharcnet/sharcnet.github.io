@@ -97,7 +97,7 @@ params:
   p5:
     heading: "Stay Up to Date"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Subscribe to our community update and stay up to date with the latest news."
     action: "#"
     label: "Email address"
     placeholder: "Enter your email"

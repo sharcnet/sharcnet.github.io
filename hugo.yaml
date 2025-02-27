@@ -112,13 +112,13 @@ params:
       url: 'https://github.com/sharcnet'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://facebook.com/sharcnet'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://instagram.com/sharcnet'
     twitter:
       enabled: true
-      url: 'https://twitter.com/nusserstudios'
+      url: 'https://x.com/sharcnet'
 
 menu:
   main:

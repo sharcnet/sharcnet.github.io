@@ -4,7 +4,10 @@ date: 2025-02-25T17:59:38-05:00
 language: en
 featured_image: /images/staff/armin.jpg
 categories: staff
-tags: [ staff, HPTC ]
+tags:
+- staff
+- HPTC
+- sysadmin
 ---
 
 # Armin Sobhani

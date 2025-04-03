@@ -122,9 +122,9 @@ params:
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: guide
+      name: Guide
+      url: /guide
       weight: 10
     - identifier: about
       name: About
